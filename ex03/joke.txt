@@ -1,0 +1,2 @@
+Why do assembly programmers need to lean to swim?
+- Because they work below C level.
