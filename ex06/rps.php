@@ -15,7 +15,4 @@ elseif (($input == "rock" && $options[$com_random] == "scissors") || ($input == 
          } else {
             echo "Sorry! You lost! The computer chose $options[$com_random].\n";
          }
-
-echo $options[$com_random];
-
 ?>
